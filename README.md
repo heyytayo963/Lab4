@@ -49,7 +49,7 @@ div {
 ```
 Kemudian buka browser untuk melihat hasilnya.
 
-![image](277175038-27f015e1-f8ed-44e3-9253-f.jpg)
+![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/27f015e1-f8ed-44e3-9253-b9b63dcfb93b)
 
 
 - Mengatur Clearfix Element
