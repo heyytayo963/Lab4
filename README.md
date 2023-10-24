@@ -481,4 +481,4 @@ nav a:hover {
 
 ### 2. Tambahkan layout untuk menu Contact
 #### => yang berisi form isian: nama, email, message, dll
-
+![image](balap.png)
