@@ -49,7 +49,7 @@ div {
 ```
 Kemudian buka browser untuk melihat hasilnya.
 
-![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/27f015e1-f8ed-44e3-9253-b9b63dcfb93b)
+![image](
 
 
 - Mengatur Clearfix Element
@@ -83,7 +83,7 @@ float: none;
 
 - Selanjutnya buka browser dan refresh kembali.
 
-![image](https://github.com/adityaputrawijaya/Lab4web/assets/115687055/92efefba-d3ab-414c-8545-75d0547278fa)
+![image](IMG_20231024_085913.png)
 
 
 - Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),
